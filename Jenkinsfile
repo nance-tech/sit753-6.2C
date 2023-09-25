@@ -22,7 +22,7 @@ pipeline {
 
  
 
-                echo "Using maven to build the code"
+                echo "Using maven to build the code."
 
  
 
